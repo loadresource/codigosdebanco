@@ -1,0 +1,147 @@
+[
+    {
+        "codigo": "0001",
+        "banco": "Banco central",
+        "logo": "img/bancocentral.png"
+    },
+    {
+        "codigo": "0102",
+        "banco": "Banco de Venezuela S.A.C.A. Banco universal",
+        "logo": "img/bancovenezuela.jpg"
+    },
+    {
+        "codigo": "0104",
+        "banco": "Venezolano del credito , S.A Banco universal",
+        "logo": "img/venezolanodelcredito.png"
+    },
+    {
+        "codigo": "0105",
+        "banco": "Banco Mercantil, C.A. S.A.C.A. Banco universal",
+        "logo": "img/mercantil.jpg"
+    },
+    {
+        "codigo": "0108",
+        "banco": "Banco Provincial, S.A. Banco universal",
+        "logo": "img/bbva_Provincial.png"
+    },
+    {
+        "codigo": "0114",
+        "banco": "Banco del Caribe, C.A Banco universal",
+        "logo": "img/bancaribe.jpg"
+    },
+    {
+        "codigo": "0115",
+        "banco": "Banco Exterior, C.A. Banco universal",
+        "logo": "img/bancoexterior.png"
+    },
+    {
+        "codigo": "0116",
+        "banco": "Banco Occidental de descuento Banco universal,C.A. S.A.C.A (b.o.d)",
+        "logo": "img/banco-occidental_de_descuento.jpg"
+    },
+    {
+        "codigo": "0128",
+        "banco": "Banco Caroni, C.A Banco universal",
+        "logo": "img/caroni.jpg"
+    },
+    {
+        "codigo": "0134",
+        "banco": "Banesco banco universal S.A.C.A.",
+        "logo": "img/banesco.png"
+    },
+    {
+        "codigo": "0137",
+        "banco": "Banco Sofitasa banco universal, C.A.",
+        "logo": "img/sofitasa.png"
+    },
+    {
+        "codigo": "0138",
+        "banco": "Banco Plaza, C.A.",
+        "logo": "img/bancoplaza.png"
+    },
+    {
+        "codigo": "0146",
+        "banco": "Banco de la gente emprendedora bangente, C.A.",
+        "logo": "img/bangente.png"
+    },
+    {
+        "codigo": "0151",
+        "banco": "BFC Banco fondo comun C.A. Banco universal",
+        "logo": "img/bfc.png"
+    },
+    {
+        "codigo": "0156",
+        "banco": "100% Banco,Banco comercial,C.A.",
+        "logo": "img/100xcientobanco.jpg"
+    },
+    {
+        "codigo": "0157",
+        "banco": "Del sur banco universal,C.A.",
+        "logo": "img/delsur.png"
+    },
+    {
+        "codigo": "0163",
+        "banco": "Banco del tesoro,C.A. banco universal",
+        "logo": "img/bancotesoro.png"
+    },
+    {
+        "codigo": "0166",
+        "banco": "Banco agricola de Venezuela, C.A. Banco universal",
+        "logo": "img/bancoagricola.png"
+    },
+    {
+        "codigo": "0168",
+        "banco": "Bancrecer S.A. Banco desarrollo",
+        "logo": "img/bancrecer.png"
+    },
+    {
+        "codigo": "0169",
+        "banco": "Mi Banco, Banco de desarrollo,C.A.",
+        "logo": "img/mibanco.png"
+    },
+    {
+        "codigo": "0171",
+        "banco": "Banco activo,C.A. Banco comercial",
+        "logo": "img/bancoactivo.jpg"
+    },
+    {
+        "codigo": "0172",
+        "banco": "Bancamiga, C.A. banco universal",
+        "logo": "img/bancamiga.jpg"
+    },
+    {
+        "codigo": "0173",
+        "banco": "Banco internacional de desarrollo, C.A.",
+        "logo": "img/bancocentral.png"
+    },
+    {
+        "codigo": "0174",
+        "banco": "Banplus Banco comercial, C.A.",
+        "logo": "img/banplus.jpg"
+    },
+    {
+        "codigo": "0175",
+        "banco": "Banco Bicentenario Banco universal",
+        "logo": "img/bicentenario.jpg"
+    },
+    {
+        "codigo": "0177",
+        "banco": "Banfanb",
+        "logo": "img/banfanb.png"
+    },
+    {
+        "codigo": "0190",
+        "banco": "Citibank N.A",
+        "logo": "img/Banco_citibank.jpg"
+    },
+    {
+        "codigo": "0191",
+        "banco": "Banco nacional credito, C.A. Banco universal (BNC)",
+        "logo": "img/bnc.jpg"
+    },
+    {
+        "codigo": "0601",
+        "banco": "instituto municipal de credito popular",
+        "logo": "img/imcp.png"
+    }
+]

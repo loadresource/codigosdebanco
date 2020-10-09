@@ -1,0 +1,118 @@
+::-webkit-scrollbar{display: none;}
+body{margin: 0;padding: 0;}
+main {
+  margin-bottom: 0px;
+  border-radius: 10px;
+  background-color: rgba(207, 206, 206, 0.295);
+  font-family: 'Roboto',Arial, Helvetica, sans-serif;
+}
+p {
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+}
+ol {
+  padding: 20px 20px 20px 20px;
+  align-items: center;
+  list-style: none;
+}
+
+.scrollToc{
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  height: 10px;
+  background: #ccc;
+  display: none;
+}
+.scrollBar{
+  background: rgb(220, 20, 60);
+  height: 10px;
+  width: 0%;
+}
+
+
+.bankback li {
+  text-align: center;
+  margin: 20px;
+  position: relative;
+  box-shadow: 5px 5px 10px #0717467c;
+  padding: 20px 20px 20px 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+img {
+  margin-top: 15px;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.CODIGO{
+  color: #ff002b;
+}
+.titulo {
+  margin-top: 0;
+  background-color: #3b8df7;
+  border-bottom: #fdfdfd6c solid;
+  padding: 20px 20px 20px 20px;
+  font-family: 'Roboto',Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+.pie p{
+  margin-bottom: 0px;
+  color: #000000;
+  text-align: center;
+}
+.pie a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.pie a:hover {
+  color: #f02745;
+}
+.corazon{
+  color: #f02745;
+}
+
+button{
+  border: none;
+  outline: none;
+}
+.top {
+  background-color: transparent;
+  position: fixed;
+  display: none;
+  right: 0;
+  bottom: 0;
+  margin-right: 40px;
+  margin-bottom: 60px;
+  z-index: 900;
+  text-decoration: none;
+  font-size: 35px;
+  cursor: pointer;
+}
+@media only screen and (max-width :5000px){
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+}
+@media only screen and (max-width :900px){
+  .bankback li {
+    font-size: 22px;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    box-shadow: 5px 5px 10px #0717467c;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
+}
