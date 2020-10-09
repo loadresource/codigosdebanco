@@ -34,7 +34,7 @@ listBank().then((data) => {
   data.forEach((list) => {
     li.textContent = html += `<li><span class ="codigo">${list.codigo}</span> ${list.banco} <img src="${list.logo}"</li>`
   })
-  listBank.innerHTML = li.textContent.toUpperCase()
+  listBank.innerHTML = li.textContent.toLowerCase()
 })
 
 /*boton top*/
